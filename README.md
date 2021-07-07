@@ -1,7 +1,7 @@
 # Tic-Tac-Toe <img src="https://github.com/harsh0072/Tic_tac_toe/blob/main/images/favicon.png" width="30">
 <img src="https://github.com/harsh0072/Tic_tac_toe/blob/main/images/ScreenShots/%233.jfif" align="right" style="display:inline;" width="280" >
 
-Tic-Tac-Toe game AI using **Minimax algorithm with alpha-beta pruning optimization.**<br>Heuristic/Evaluation function is such that it chooses the move that makes fastest win / slowest loss by giving score to the terminal states based on the their depth.
+Tic-Tac-Toe game AI using **Minimax algorithm with alpha-beta pruning optimization.**<br>Heuristic/Evaluation function is such that it chooses the move that makes fastest win / slowest loss by giving score to the terminal states based on their depth.
 
 
 <a href="https://harsh0072.github.io/Tic_tac_toe/"> <img src="https://github.com/harsh0072/Tic_tac_toe/blob/main/images/playnow.png" alt="PLAY NOW!" width="150" height="50"> </a>
